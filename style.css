@@ -130,3 +130,9 @@ body, html {
   padding: 20px;
   text-align: center;
 }
+.image {
+  width: 40%;
+  height: auto;
+  float: left;
+  padding: 20px;
+}
